@@ -1,7 +1,9 @@
 const Contact = () =>{
     return(
-     <>This the contact page.</>
-    )
+  
+   <h1>  This the contact page.</h1>
+    
+    );
 }
 
 export default Contact;
