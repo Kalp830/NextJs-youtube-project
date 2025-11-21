@@ -1,6 +1,8 @@
 import Navigation from "./component/Navigation";
 import {Roboto, Work_Sans} from "next/font/google";
 import { Work_Sans } from "next/font/google";
+import "./globals.css";
+
 
 const roboto = Roboto({
   subsets:["latin"],

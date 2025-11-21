@@ -4,7 +4,8 @@ import nature from "../../../../public/nature-img2.jpeg"
 const Contact = () =>{
     return(
   <>
-   <h1>  This the contact page.</h1>
+   <h1 className="font-roboto"> This the contact page.</h1>
+   <h2 className="font-worksans">This is the worksans font</h2>
    <div className="relative">
    <Image
    src={nature}
